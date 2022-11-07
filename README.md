@@ -6,7 +6,7 @@
   - производительность
 
 #### Навыки и инструменты
-C++, Алгоритмы, TDD, ООП, Git, CMake, JSON, SVG, AST
+C++, TDD, ООП, Git, CMake, JSON, SVG, AST
 
 #### Завершённые проекты
 **[Mython Interpretator](https://github.com/fediukov/ya_mython)**
