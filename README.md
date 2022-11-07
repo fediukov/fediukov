@@ -9,7 +9,7 @@
 C++, Алгоритмы, TDD, ООП, Git, CMake, JSON, SVG, AST
 
 #### Завершённые проекты
-**[Mython Interpretator](https://github.com/fediukov/ya_transport_catalogue)**
+**[Mython Interpretator](https://github.com/fediukov/ya_mython)**
 
 Реализация на C++ языка Mython - упрощённой версии Python. Поддерживаются основные арифметические операции, классы, методы и наследование.
 
