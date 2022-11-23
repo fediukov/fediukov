@@ -9,13 +9,17 @@
 C++, TDD, ООП, Git, CMake, JSON, SVG, AST
 
 #### Завершённые проекты
-**[Mython Interpretator](https://github.com/fediukov/ya_mython)**
-
-Реализация на C++ языка Mython - упрощённой версии Python. Поддерживаются основные арифметические операции, классы, методы и наследование.
-
 **[Transport Catalogue](https://github.com/fediukov/ya_transport_catalogue)**
 
 Backend-реализация на C++ транспортного справочника со встроенной базой данных остановок и маршрутов. Реализован модуль маршрутизации для расчета кратчайшего маршрута. Реализована визуализация транспортной карты через svg-файл.
+
+**[Spreadsheet](https://github.com/fediukov/ya_spreadsheet)**
+
+Бэкэнд-реализация на C++ электронной таблицы. Ячейки поддерживают строковые и числовые значения, а также арифметические операции со ссылками на другие ячейки.
+
+**[Mython Interpretator](https://github.com/fediukov/ya_mython)**
+
+Реализация на C++ языка Mython - упрощённой версии Python. Поддерживаются основные арифметические операции, классы, методы и наследование.
 
 **[Search Server](https://github.com/fediukov/ya_search_server)**
 
